@@ -26,7 +26,7 @@ print(converted_value, exchange_rate)
 ```
 **Output Example:**
 ```
-2.1574, 1.0787
+(2.1574, 1.0787)
 ```
 
 ### 2️⃣ Fetch Stock Value
@@ -38,7 +38,7 @@ print(stock_value, single_stock_price)
 ```
 **Output Example:**
 ```
-1205.16, 602.58
+(1205.16, 602.58)
 ```
 
 ## Available Currencies
