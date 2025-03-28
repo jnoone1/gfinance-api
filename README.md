@@ -49,6 +49,7 @@ You can see them all with the currencies list. (There may be more that I forgot 
 - The script relies on web scraping. If Google changes its webpage structure, the script may break.
 - The returned values depend on Google's real-time updates.
 - It is recommended to use this module for **personal or educational** purposes only.
+- JT edits
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
